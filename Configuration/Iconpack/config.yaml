@@ -1,0 +1,27 @@
+iconpack:
+  title: "Flag Icons"
+  key: "flagicons"
+  #version: "unknown"
+  url: "https://www.example.com"
+
+  renderTypes:
+
+    _default:
+      prefix: "flagicons flagicons-"
+
+    webfont:
+      css: "EXT:iconpack_flagicons/Resources/Public/Vendor/iconfont/flagicons.css"
+      attributes:
+        aria-hidden: "true"
+        role: "img"
+
+    svg:
+      source: "EXT:iconpack_flagicons/Resources/Public/Vendor/svgs/"
+
+    svgInline:
+      source: "EXT:iconpack_flagicons/Resources/Public/Vendor/svgs/"
+      attributes:
+        fill: "currentColor"
+        role: "img"
+
+  icons: "EXT:iconpack_flagicons/Resources/Public/Vendor/metadata/icons.yml"

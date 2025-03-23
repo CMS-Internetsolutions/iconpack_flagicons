@@ -1,0 +1,44 @@
+{
+	"name": "t3starter/iconpack-flagicons",
+	"type": "typo3-cms-extension",
+	"description": "This Extension registers an Iconpack-Provider for EXT:iconpack. Vector (*.svg) country flag icons in 3:2 aspect ratio.",
+	"keywords": [
+		"TYPO3",
+		"extension",
+		"CKEditor",
+		"icons",
+		"iconfont",
+		"webfont"
+	],
+	"license": [
+		"GPL-3.0-or-later"
+	],
+	"homepage": "https://github.com/CMS-Internetsolutions/iconpack_flagicons",
+	"authors": [
+		{
+			"name": "E.Haake",
+			"email": "info@cms-internetsolutions.de",
+			"role": "Developer",
+			"homepage": "https://www.cms-internetsolutions.de/"
+		}
+	],
+	"require": {
+		"php": ">=8.0.0",
+		"typo3/cms-core": ">=12.4 <14",
+		"quellenform/t3x-iconpack": ">=1.0.0 ^1.1.9"
+	},
+	"replace": {
+		"typo3-ter/iconpack-flagicons": "self.version"
+	},
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://composer.typo3.org/"
+		}
+	],
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "iconpack_flagicons"
+		}
+	}
+}
