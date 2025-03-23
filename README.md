@@ -1,8 +1,8 @@
 [![TYPO3](https://img.shields.io/badge/TYPO3-iconpack-%23f49700?style=for-the-badge)](https://extensions.typo3.org/extension/iconpack/)
 
-# Bootstrap Icons for TYPO3
+# Flag Icons for TYPO3
 
-TYPO3 CMS Extension "iconpack_bootstrap"
+TYPO3 CMS Extension "iconpack_flagicons"
 
 ## What does it do?
 
