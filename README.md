@@ -10,8 +10,8 @@ This Extension registers an Iconpack-Provider for EXT:iconpack which allows you 
 
 ## Installation/Configuration
 
-1. Install EXT:iconpack from TER/git or with composer
-2. Install this Extension from TER/git or with composer
+1. Install EXT:iconpack from TER/git or with composer (composer require quellenform/t3x-iconpack)
+2. Install this Extension from TER/git or with composer (composer require t3starter/iconpack-flagicons)
 3. Customize configuration (Optional)
 
 ## Disclaimer
