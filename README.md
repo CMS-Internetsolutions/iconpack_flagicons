@@ -20,8 +20,8 @@ This extension contains an icon set of another author. Please note the license t
 
 | Name    | _country-flag-icons icons_                                    |
 | :------ |:--------------------------------------------------------------|
-| Type    | SVG, SVG-Sprite, Webfont                                      |
-| Version | _1.0.0_                                                       |
+| Type    | SVG, Webfont                                                  |
+| Version | _1.5.19_                                                      |
 | License | [MIT](https://opensource.org/licenses/MIT)                    |
 | Author  | [@mdo](https://gitlab.com/catamphetamine/country-flag-icons/) |
 | Source  | (https://gitlab.com/catamphetamine)                           |
