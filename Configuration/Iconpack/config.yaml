@@ -1,8 +1,8 @@
 iconpack:
   title: "Flag Icons"
   key: "flagicons"
-  #version: "unknown"
-  url: "https://www.example.com"
+  version: 1.5.19
+  url: "https://gitlab.com/catamphetamine/country-flag-icons/"
 
   renderTypes:
 
@@ -11,9 +11,6 @@ iconpack:
 
     webfont:
       css: "EXT:iconpack_flagicons/Resources/Public/Vendor/iconfont/flagicons.css"
-      attributes:
-        aria-hidden: "true"
-        role: "img"
 
     svg:
       source: "EXT:iconpack_flagicons/Resources/Public/Vendor/svgs/"
@@ -22,6 +19,5 @@ iconpack:
       source: "EXT:iconpack_flagicons/Resources/Public/Vendor/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_flagicons/Resources/Public/Vendor/metadata/icons.yml"
