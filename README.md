@@ -6,7 +6,7 @@ TYPO3 CMS Extension "iconpack_flagicons"
 
 ## What does it do?
 
-This Extension registers an Iconpack-Provider for EXT:iconpack which allows you to use the Flag Icons (https://gitlab.com/catamphetamine/country-flag-icons/) in TYPO3.
+This Extension registers an Iconpack-Provider for EXT:iconpack (https://extensions.typo3.org/extension/iconpack) which allows you to use the Flag Icons (https://gitlab.com/catamphetamine/country-flag-icons/) in TYPO3.
 
 ## Installation/Configuration
 

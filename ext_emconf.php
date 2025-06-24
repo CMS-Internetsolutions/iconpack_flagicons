@@ -9,11 +9,11 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'E.Haake',
     'author_email' => 'info@cms-internetsolutions.de',
     'author_company' => 'CMS-Internetsolutions',
-    'version' => '1.0.0',
+    'version' => '1.0.3',
     'constraints' => [
         'depends' => [
             'typo3' => '12.4.00-13.9.99',
-            'iconpack' => '1.0.0-1.99'
+            'iconpack' => '1.0.0-2.99'
         ],
         'conflicts' => [],
         'suggests' => []
