@@ -27,3 +27,8 @@ This extension contains an icon set of another author. Please note the license t
 | Source  | (https://gitlab.com/catamphetamine)                           |
 
 _All brand icons are copyright/trademarks of their respective owners._
+
+Screenshots:
+
+![csm_iconpack_flagicons_backend](https://github.com/user-attachments/assets/07b3eb7b-9461-433d-b292-ee8926301208)
+![csm_iconpack_flagicons_menu](https://github.com/user-attachments/assets/f57b0d37-bb37-4e7c-9a62-99b7c571e253)
